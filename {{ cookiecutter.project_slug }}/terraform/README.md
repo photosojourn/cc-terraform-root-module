@@ -1,5 +1,6 @@
+<!-- markdownlint-disable MD033 -->
 <!-- REPLACE THIS SECTION - START -->
-# DevOpsGroup Terraform Template
+# Terraform Template
 
 <!-- REPLACE THIS SECTION - END -->
 ## Terraform Docs
